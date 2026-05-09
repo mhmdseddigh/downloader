@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [Microsoft.WSL_2.7.3.0_x64_ARM64](./Microsoft.WSL_2.7.3.0_x64_ARM64)
 
 ---
 
