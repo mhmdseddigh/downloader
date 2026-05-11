@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [Microsoft.WSL_2.7.3.0_x64_ARM64](./Microsoft.WSL_2.7.3.0_x64_ARM64)
+- [pytorch_model](./pytorch_model)
 - [small](./small)
 - [whisper-medium](./whisper-medium)
 
