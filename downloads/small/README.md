@@ -1,4 +1,4 @@
-# small.pt - Download Failed
+# small
 
 ---
 
@@ -6,29 +6,35 @@
 
 | Property | Value |
 |----------|-------|
-| **File** | `small.pt` |
-| **URL** | https://openaipublic.azureedge.net/main/whisper/models/9ecf779972d90ba49c06d968637d720d6b0f3c4d4c0b8b4f0d4e5d9e0f5d6c0a/small.pt |
-| **Date** | 2026-05-11 22:13:44 UTC |
-| **Status** | **FAILED** |
+| **Original File** | `small.pt` |
+| **Total Size** | **10 parts** - **424.18 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
 
 ---
 
-## Error Details
+## Download Links
 
-```
-Download failed after 3 attempts. Last error: curl: (22) The requested URL returned error: 404
-```
+| # | File | Link |
+|---|------|------|
+| 1 | `small.z01` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.z01) |
+| 2 | `small.z02` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.z02) |
+| 3 | `small.z03` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.z03) |
+| 4 | `small.z04` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.z04) |
+| 5 | `small.z05` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.z05) |
+| 6 | `small.z06` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.z06) |
+| 7 | `small.z07` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.z07) |
+| 8 | `small.z08` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.z08) |
+| 9 | `small.z09` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.z09) |
+| 10 | `small.zip` | [Download](https://github.com/mhmdseddigh/downloader/raw/main/downloads/small/small.zip) |
 
 ---
 
-## Possible Solutions
+## How to Extract
 
-- Check if the URL is correct and accessible
-- The file may have been removed or moved
-- The server may require authentication
-- For SourceForge: Try using the direct download link
-- Some servers block automated downloads (403 Forbidden)
-- Try again later if it is a temporary server issue
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `small.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
 
 ---
 
